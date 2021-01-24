@@ -7,6 +7,7 @@
  * @license     http://opensource.org/licenses/AGPL-3.0
  *
  */
+
 Dict::Add('RU RU', 'Russian', 'Русский', array(
 	'CAS:Error:UserNotAllowed' => 'Вход не разрешён',
 	'CAS:Login:SignIn' => 'Вход через CAS',
